@@ -1,0 +1,5 @@
+package com.biricik.ecommerce.dto;
+
+public class PaymentInfoDto {
+
+}

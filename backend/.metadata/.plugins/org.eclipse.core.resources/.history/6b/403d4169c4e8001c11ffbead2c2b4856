@@ -1,0 +1,17 @@
+spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.PostgreSQLDialect
+spring.datasource.url=jdbc:postgresql://localhost:5432/full-stack-ecommerce
+spring.datasource.username=postgres
+spring.datasource.driver-class-name=org.postgresql.Driver
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+spring.datasource.password=123456
+
+
+spring.data.rest.base-path=/api
+allowed.origins=https://localhost:4200
+spring.data.rest.detection-strategy=ANNOTATED
+
+
+okta.oauth2.client-id=0oa5c23fnpfO3ILbh5d7
+okta.oauth2.client-secret=DqZg0lb-3bsiupUbEuJVg9v9oDOn_lS4eAsErV8t
+okta.oauth2.issuer=https://dev-72803196.okta.com/oauth2/default

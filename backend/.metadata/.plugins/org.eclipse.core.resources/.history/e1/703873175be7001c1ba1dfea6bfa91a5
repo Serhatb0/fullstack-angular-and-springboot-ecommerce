@@ -1,0 +1,5 @@
+package com.biricik.ecommerce.config;
+
+public class MyAppConfig {
+
+}

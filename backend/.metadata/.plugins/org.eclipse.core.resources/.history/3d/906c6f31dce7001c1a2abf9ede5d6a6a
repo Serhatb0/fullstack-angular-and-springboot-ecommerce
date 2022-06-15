@@ -1,0 +1,5 @@
+package com.biricik.ecommerce.dao;
+
+public interface OrderRepository {
+
+}
